@@ -23,6 +23,12 @@ But computers mediate our lives and social spaces more and more. These are compl
 
 ### Stuff you may want to read some day
 
+### Possibilities
+
+- Embryogenesis: Or, Yes, This Time Is Different
+- [Money, blockchains, and social scalability](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)
+- [Dunbar's Number is Quadratic](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
+
 # 3. Salon Time and Date
 
 # 4. Salon Image
